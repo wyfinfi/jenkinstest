@@ -9,5 +9,6 @@ public class two {
     public static void main(String[] args) {
         System.out.println("two");
         System.out.println("one change two");
+        System.out.println("one change two");
     }
 }
