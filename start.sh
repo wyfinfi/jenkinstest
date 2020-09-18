@@ -1,4 +1,4 @@
-
+git checkout master
 
 # 拉取代码
 git pull
